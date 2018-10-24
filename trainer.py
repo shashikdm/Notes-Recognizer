@@ -19,4 +19,3 @@ X = scaler.transform(X)
 clf.fit(X,y)
 predictions = clf.predict(X)
 print(confusion_matrix(y,predictions))
-weights = clf.coefs_
