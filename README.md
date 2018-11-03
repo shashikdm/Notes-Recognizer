@@ -1,2 +1,2 @@
 # Notes-Recognizer
-Repository for recognizing notes using machine 
+Seperating notes from other images using deep learning.
